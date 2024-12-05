@@ -1,0 +1,27 @@
+
+# Node.js
+express/node_modules/
+express/npm-debug.log*
+express/yarn-debug.log*
+express/yarn-error.log*
+
+# Flask
+tugas_flask/tugas_10_mwsc_pyvenv/
+tugas_flask/*.pyc
+tugas_flask/*.pyo
+tugas_flask/__pycache__/
+
+# Environment files
+tugas_flask/.env
+express/.env
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
