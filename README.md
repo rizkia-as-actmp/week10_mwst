@@ -45,7 +45,7 @@ perintah berikut untuk melakukan run project express ini
 node index.js
 ```
 ##### 7. Hasil running 
-<img src="running express.png" alt="Description of image" width="600">
+<img src="run-express.png" width="600">
 
 
 
