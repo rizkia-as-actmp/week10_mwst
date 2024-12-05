@@ -47,7 +47,35 @@ node index.js
 ##### 7. Hasil running 
 <img src="run-express.png" width="600">
 
+## B. Flask
+##### 1. Buat direktori untuk menyimpan kode untuk flask
+```shell
+mkdir tugas_flask
+```
 
+##### 2. Buat direktori untuk menyimpan kode untuk flask
+```shell
+mkdir tugas_flask
+```
+lalu masuk ke direktori yang baru dibuat tadi
+```shell
+cd tugas_flask
+```
+##### 3. Buat python environtment
+python environtment digunakan untuk melakukan encapsulasi terhadap package python dan versinya agar tersedia, bisa digunakan dan hanya mempengaruhi shell session yang menggunakannya
+```shell
+python3 -m venv tugas_10_mwsc_pyvenv
+```
+##### 4. Gunakan python environtment
+sourcing python env pada terminal yang saat ini sedang dibuka, untuk men-set python environtment terhadap shell session yang terminal saya gunakan saat ini
+```shell
+source tugas_10_mwsc_pyvenv/bin/activate
+```
+##### 5. Install flask
+sourcing python env pada terminal yang saat ini sedang dibuka, untuk men-set python environtment terhadap shell session yang terminal saya gunakan saat ini
+```shell
+pip install flask
+```
 
 ### Features
 
