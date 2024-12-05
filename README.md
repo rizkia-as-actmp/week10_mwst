@@ -71,7 +71,7 @@ perintah berikut untuk melakukan run project express ini
 node index.js
 ```
 ##### 7. Hasil running 
-<img src="run-express.png" width="600">
+<img src=".md.d/run-express.png" width="600">
 
 ## B. Flask
 ##### 1. Buat direktori untuk menyimpan kode untuk flask
@@ -128,7 +128,7 @@ perintah berikut untuk melakukan run project flask ini
 flask --app app.py run
 ```
 ##### 7. Hasil running 
-<img src="run-flask.png" width="600">
+<img src=".md.d/run-flask.png" width="600">
 
 # Selesai
 ``
