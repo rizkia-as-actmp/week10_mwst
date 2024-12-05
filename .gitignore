@@ -6,7 +6,7 @@ express/yarn-debug.log*
 express/yarn-error.log*
 
 # Flask
-tugas_flask/tugas_10_mwsc_pyvenv/
+tugas_flask/week10_mwst_pyvenv/
 tugas_flask/*.pyc
 tugas_flask/*.pyo
 tugas_flask/__pycache__/
